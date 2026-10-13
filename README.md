@@ -874,6 +874,9 @@ manipulation, navigation, humanoids, and the data and simulators behind them.
 
 #### Sim
 
+- **RoboQuest: Generalist Physical Agents that Search, Inspect and Test**  
+  [![Bench](https://img.shields.io/badge/-Bench-B9A3E3?style=flat-square)](#-e-benchmarks) [![Paper](https://img.shields.io/badge/-Paper-E58A8F?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.10388) [![Code](https://img.shields.io/github/stars/declare-lab/RoboQuest?style=flat-square&logo=github&label=Code&color=B7CADB)](https://github.com/declare-lab/RoboQuest) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Benchmark-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/declare-lab/RoboQuest) [![Project](https://img.shields.io/badge/-Project-9AC7E8?logo=googlechrome&logoColor=white&style=flat-square)](https://declare-lab.github.io/RoboQuest/)
+
 - **ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop**  
   [![Bench](https://img.shields.io/badge/-Bench-B9A3E3?style=flat)](#-e-benchmarks) [![Paper](https://img.shields.io/badge/-Paper-E58A8F?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.18746) [![Code](https://img.shields.io/github/stars/ESI-Bench/ESI-Bench?style=flat-square&logo=github&label=Code&color=B7CADB)](https://github.com/ESI-Bench/ESI-Bench) [![Project](https://img.shields.io/badge/-Project-9AC7E8?logo=googlechrome&logoColor=white&style=flat-square)](https://esi-bench.github.io/)
 
