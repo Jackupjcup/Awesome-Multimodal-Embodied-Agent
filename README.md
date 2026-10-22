@@ -1134,24 +1134,10 @@ If you find our repository useful, please cite:
 ```bibtex
 @article{chen2026survey,
   title={Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use},
-  author={Chen, Yanzhe and Yang, Ziyi and Zhu, Jifeng and Huang, Qiming and An, Ruihe and Xu, Peiyao and Yang, Hesen and Liu, Runda and Gong, Chang and Cao, Zhijun and others},
-  year={2026},
-  publisher={Engineering Archive}
+  author={Chen, Yanzhe and Yang, Ziyi and Zhu, Jifeng and Huang, Qiming and An, Ruihe and Xu, Peiyao and Yang, Hesen and Liu, Runda and Gong, Chang and Cao, Zhijun and Bai, Zechen and Zeng, Wenzheng and Lin, Yiqi and Liang, Guoqiang and Ma, Kevin Yuchen and Lin, Kevin Qinghong and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2610.30108},
+  year={2026}
 }
 ```
-
-<!--If you find our repository useful, please cite:
-
-```bibtex
-@misc{chen2026showharnessjustvlmagent,
-      title={Show-Harness: Just a VLM Agent Can Play Robots}, 
-      author={Yanzhe Chen and Zechen Bai and Zhijun Cao and Wenzheng Zeng and Kevin Qinghong Lin and Yiqi Lin and Guoqiang Liang and Kevin Yuchen Ma and Qiming Huang and Mike Zheng Shou},
-      year={2026},
-      eprint={2609.10522},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2609.10522}, 
-}
-```-->
 
 If you like the repository, please give us a star ⭐ — it is how we hear that it is useful.
