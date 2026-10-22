@@ -507,6 +507,9 @@ language-conditioned robot world models, and embodied memory.
 Agents built on multi-modal foundation models that perceive and act in **digital** environments —
 screens, browsers, documents, and APIs — without a physical body.
 
+- **Player-1: Learning to Play from Synthetic Experience**  
+  [![MMA](https://img.shields.io/badge/-MMA-A9D6F5?style=flat-square)](#-c-multimodal-agents) [![Paper](https://img.shields.io/badge/-Paper-E58A8F?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.20584) [![Project](https://img.shields.io/badge/-Project-9AC7E8?logo=googlechrome&logoColor=white&style=flat-square)](https://player-1-project.github.io/)
+
 - **AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents**  
   [![MMA](https://img.shields.io/badge/-MMA-A9D6F5?style=flat)](#-c-multimodal-agents) [![Paper](https://img.shields.io/badge/-Paper-E58A8F?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.05891)
 
