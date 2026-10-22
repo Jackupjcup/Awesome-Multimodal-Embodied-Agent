@@ -28,7 +28,7 @@
 <a href="https://sites.google.com/view/showlab/home">Show Lab @ National University of Singapore</a><br>
 
 <p align="center">
-  <a href="https://figshare.com/articles/preprint/Survey_on_Multimodal_Embodied_Agents_A_Unified_Capability-centric_Perspective_from_Computer-Use_to_Robot-Use/33529048?file=68429050">📄 Paper</a> &nbsp; | &nbsp;
+  <a href="https://arxiv.org/pdf/2610.30108">📄 Paper</a> &nbsp; | &nbsp;
   <!--<a href="https://huggingface.co/papers/2510.01174">🤗 Daily Paper</a> &nbsp; | &nbsp;-->
   <a href="https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/">🌐 Project Website</a>
   <!--<a href="https://x.com/KevinQHLin/status/1974199353695941114">💬 X (Twitter)</a>-->
